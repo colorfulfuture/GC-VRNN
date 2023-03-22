@@ -1,5 +1,12 @@
 # GC-VRNN
 
-Official implementation of paper: "**Uncovering the Missing Pattern: Unified Framework Towards Trajectory Imputation and Prediction**" of **CVPR 2023**
+Code of paper: "**Uncovering the Missing Pattern: Unified Framework Towards Trajectory Imputation and Prediction**" (**CVPR 2023**)
 
-Currently under legal review from company side, coming Soon!
+[Yi Xu](https://sites.google.com/view/homepage-of-yi-xu), 
+[Armin Bazarjani](https://arminbaz.github.io/), 
+[Hyung-gun Chi](https://hyung-gun.me/), 
+[Chiho Choi](https://chihochoi.github.io/), 
+[Yun Fu](http://www1.ece.neu.edu/~yunfu/)
+
+
+Currently under legal review and waiting for the approval from company side, coming soon!
