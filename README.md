@@ -1,3 +1,7 @@
+## New:
+
+A more comprehensive model that covers multiple trajectory tasks and inlcudes three built sports game datasets, are released in [UniTraj](https://github.com/colorfulfuture/UniTraj-pytorch). Please refer to that repo for datasets and models.
+
 # GC-VRNN
 
 Code of paper: "**Uncovering the Missing Pattern: Unified Framework Towards Trajectory Imputation and Prediction**" (**CVPR 2023**)
